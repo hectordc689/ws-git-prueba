@@ -1,6 +1,1 @@
 SE AGREGA cambio DE NUEVO JOSE HECTOR 
-<<<<<<< .mine
-SE AGREGA cambio DE NUEVO HECTOR
-=======
-SE AGREGA cambio DE NUEVO JOSE
->>>>>>> .theirs
